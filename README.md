@@ -1,0 +1,6 @@
+- 👋 Hi, I’m @ary-rpi-6, a student.
+- 👀 I’m interested in Web Developement.
+- 🌱 I’m currently learning UI and UX of websites.
+- 📫 Mail ID: aryan.keluskar@icloud.com.
+- 😁 My Intrests are Web Developement, Android Devolopement, Playing Tennis and Table Tennis, R&B Songs, Marvel Studios and Video Editing.
+- 💻 Programming Languages known: Java, JavaScript, Angular, Vue, React, Python, Swift, HTML and CSS.
