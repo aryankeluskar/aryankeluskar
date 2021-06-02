@@ -1,4 +1,4 @@
-<div style="background-image: linear-gradient(to right, blue, purple);"> 
+
 - <h1>👋 Hi </h1> 
 - I’m @aryankeluskar, a student.
 - 👀 I’m interested in Web Developement.
@@ -6,7 +6,7 @@
 - 📫 Instagram id, @ary_rpi6
 - 😁 My Intrests are Web Developement, Android Devolopement, Playing Tennis and Table Tennis, R&B Songs, Marvel Studios and Video Editing.
 - 💻 Programming Languages known: Java, JavaScript, Python, HTML and CSS.
-  </div>
+ 
 
 <p align="center">
 <a href="https://github.com/aryankeluskar">
