@@ -7,7 +7,7 @@
 
 <p align="center">
 <a href="https://github.com/aryankeluskar">
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=aryankeluskar&show_icons=true&theme=chartreuse-dark&include_all_commits=true&count_private=true"/>
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=aryankeluskar&layout=compact&langs_count=8&theme=chartreuse-dark"/>
+  <img height="60%" src="https://github-readme-stats-eight-theta.vercel.app/api?username=aryankeluskar&show_icons=true&theme=chartreuse-dark&include_all_commits=true&count_private=true"/>
+  <img height="60%" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=aryankeluskar&layout=compact&langs_count=8&theme=chartreuse-dark"/>
 </a>
 </p>
