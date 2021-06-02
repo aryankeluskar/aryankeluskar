@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @aryankeluskar, a student.
+- <h1>👋 Hi, </h1> I’m @aryankeluskar, a student.
 - 👀 I’m interested in Web Developement.
 - 🌱 I’m currently learning UI and UX of websites.
 - 📫 Instagram id, @ary_rpi6
