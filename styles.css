@@ -1,0 +1,94 @@
+.navbar-nav{
+    font-size: 1.5em;
+    opacity: 80%;
+    color: white;
+}
+.nav-item:hover, .navbar-brand:hover{
+    background-color: #323c4e;
+    border-radius: 0.3em;
+    opacity: 90% !important; 
+    /* add animation later */
+}
+
+#hey{
+    background-image:url(back.png);
+    height: 91vh;
+    width: 100%;
+}
+
+p#ht{
+    font-size: 3.3em;
+    color: white;
+    font-weight: 499;
+    font-family: 'Open Sans', 'Helvetica Neue', sans-serif;
+    position: absolute;
+    top: 35%;
+    left: 5%;
+    text-shadow: 0.15em -0.03em 0.2em black;
+}
+
+p#name{
+    font-family: name;
+    color: white;
+    position: absolute;
+    top: 48%;
+    left: 5%;
+    font-size: 5.15em;
+    text-shadow: 0.15em -0.03em 0.2em black;
+}
+
+p#liner{
+    font-family: "Open Sans Light";
+    color: white;
+    position: absolute;
+    top: 63%;
+    left: 5%;
+    font-size: 1.902em;
+    z-index: 11;
+}
+
+p#cyan, p#pink{
+    font-family: "Open Sans Light";
+    color: white;
+    position: absolute;
+    top: 63%;
+    left: 5%;
+    font-size: 1.902em;
+    /* z-index: 15; */
+}
+
+p#cyan{
+    color: cyan;
+    top: 62.7%;
+    z-index: 9;
+}
+p#pink{
+    color: #ff00ff;
+    top: 63.3%;
+    z-index: 10;
+}
+
+@font-face {
+    font-family: name;
+    src: url(league-spartan.bold.ttf);
+}
+
+/* @font-face kit by Fonts2u (https://fonts2u.com) */ 
+@font-face {
+    font-family:"Open Sans Light";
+    src:url("OpenSans-Light.eot?") format("eot"),url("OpenSans-Light.woff") format("woff"),url("OpenSans-Light.ttf") format("truetype"),url("OpenSans-Light.svg#OpenSans-Light") format("svg");
+    font-weight:normal;
+    font-style:normal;
+}
+
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans:wght@800&display=swap');
+
+.noselect {
+    -webkit-touch-callout: none; /* iOS Safari */
+      -webkit-user-select: none; /* Safari */
+       -khtml-user-select: none; /* Konqueror HTML */
+         -moz-user-select: none; /* Old versions of Firefox */
+          -ms-user-select: none; /* Internet Explorer/Edge */
+              user-select: none; /* Non-prefixed version, currently
+                                    supported by Chrome, Edge, Opera and Firefox */
+  }
