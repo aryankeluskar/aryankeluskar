@@ -3,8 +3,8 @@
 - I’m Aryan Keluskar (@aryankeluskar), a student (📍🇮🇳).
 - 👀 I’m interested in Web Developement (Front-End, MERN stack, Full-Stack), Fun stuff in Java & Python, and Visual Effects.
 - 🌱 I’m currently learning Wordpress, Python and Blender.
-- 📫 Instagram: <a href="https://www.instagram.com/aryankeluskar/">@aryankeluskar</a>; Twitter: <a href="https://twitter.com/aryankeluskar6">@aryankeluskar6</a>; YouTube: <a href="https://www.youtube.com/channel/UCz-EQVc6DcbiIJxaeiVFBvQ">The Sarcastic Techynologion.</a>
-- 😁 My Intrests are Web Developement, Playing Tennis and Table Tennis, R&B Songs, Marvel Studios and Video Maniuplation.
+- 📫 Linkedin: <a href="https://www.linkedin.com/in/aryankeluskar/">Aryan Kelukar</a>, Instagram: <a href="https://www.instagram.com/aryankeluskar/">@aryankeluskar</a>; Twitter: <a href="https://twitter.com/aryankeluskar6">@aryankeluskar6</a>; YouTube: <a href="https://www.youtube.com/channel/UCz-EQVc6DcbiIJxaeiVFBvQ">The Sarcastic Techynologion.</a>
+- 😁 My Interests are Web Developement, Playing Tennis and Table Tennis, R&B Songs, Marvel Studios and Video Maniuplation.
 - 💻 Programming Languages known: Java, JavaScript, Python, HTML and CSS.
 - 📧 My inbox is always open to connect: aryankeluskar6@gmail.com
 - 📝 Check out <a href="aryankeluskar.github.io">My Website here</a>, and My Resume here
