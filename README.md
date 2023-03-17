@@ -7,7 +7,7 @@
 - 😁 My Interests are Web Developement, Playing Tennis and Table Tennis, R&B Songs, and developing my very own web-series!
 - 💻 Programming Languages known: Java, JavaScript, Python, HTML and CSS.
 - 📧 My inbox is always open to connect: aryankeluskar6@gmail.com
-- 📝 Check out <a href="aryankeluskar.github.io">My Website here</a>, and My Resume here
+- 📝 Check out <a href="https://aryankeluskar.github.io">My Website here</a>, and My Resume here
  
 
 <p align="center">
