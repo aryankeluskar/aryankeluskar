@@ -4,6 +4,7 @@
 - 👀 I’m interested in Web Developement (Front-End, MERN stack, Full-Stack), Fun stuff in Java & Python, and Visual Effects.
 - 🌱 I’m currently learning Wordpress, Python and Blender.
 - 📫 Linkedin: <a href="https://www.linkedin.com/in/aryankeluskar/">Aryan Kelukar</a>, Instagram: <a href="https://www.instagram.com/aryankeluskar/">@aryankeluskar</a>; Twitter: <a href="https://twitter.com/aryankeluskar6">@aryankeluskar6</a>; YouTube: <a href="https://www.youtube.com/channel/UCz-EQVc6DcbiIJxaeiVFBvQ">The Sarcastic Techynologion.</a>
+- 🫀 My Fav Projects are: The Noodle Nirvana, Your Planning Spot, Your Two-Wheeler Roomie
 - 😁 My Interests are Web Developement, Playing Tennis and Table Tennis, R&B Songs, and developing my very own web-series!
 - 💻 Programming Languages known: Java, JavaScript, Python, HTML and CSS.
 - 📧 My inbox is always open to connect: aryankeluskar6@gmail.com
