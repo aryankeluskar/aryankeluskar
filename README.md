@@ -1,13 +1,13 @@
 
 - <h1>👋 Hello Developers! </h1> 
 - I’m Aryan Keluskar (@aryankeluskar), a student (📍🇮🇳).
-- 👀 I’m interested in Web Developement (Front-End, MERN stack, Full-Stack), Fun stuff in Java & Python, and Visual Effects.
-- 🌱 I’m currently learning Wordpress, Python and Blender.
+- 👀 I’m interested in Web Developement (Front-End, MERN stack, Full-Stack), Algorithms in Java & Python.
+- 🌱 I’m currently learning NodeJS, while creating projects to boost my skills.
 - 📫 Linkedin: <a href="https://www.linkedin.com/in/aryankeluskar/">Aryan Kelukar</a>, Instagram: <a href="https://www.instagram.com/aryankeluskar/">@aryankeluskar</a>; Twitter: <a href="https://twitter.com/aryankeluskar6">@aryankeluskar6</a>; YouTube: <a href="https://www.youtube.com/channel/UCz-EQVc6DcbiIJxaeiVFBvQ">The Sarcastic Techynologion.</a>
 - 🫀 My Fav Projects are:  <a href="https://aryankeluskar.github.io/The-Noodle-Nirvana">The Noodle Nirvana,</a> Your Planning Spot, Your Two-Wheeler Roomie
-- 😁 My Interests are Web Developement, Playing Tennis and Table Tennis, R&B Songs, and developing my very own web-series!
+- 😁 Apart from coding, I love watching Movies, Pop/Soundtrack Music, playing Table Tennis, cycling, and am also developing my very own web-series!
 - 💻 Programming Languages known: Java, JavaScript, Python, HTML and CSS.
-- 📧 My inbox is always open to connect: aryankeluskar6@gmail.com
+- 📧 My inbox is always open to connect: <a href="mailto:aryankeluskar6@gmail.com">aryankeluskar6@gmail.com</a>
 - 📝 Check out  <a href="https://aryankeluskar.github.io">My Website here</a>, and My Resume here
  
 
