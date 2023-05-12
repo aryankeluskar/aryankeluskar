@@ -9,6 +9,7 @@
 - 💻 Programming Languages known: Java, JavaScript, Python, HTML and CSS.
 - 📧 My inbox is always open to connect: <a href="mailto:aryankeluskar6@gmail.com">aryankeluskar6@gmail.com</a>
 - 📝 Check out  <a href="https://aryankeluskar.github.io">My Website here</a>, and My Resume here
+- 🌻 My friends describe me as "tiny sweet helpful human, smart also and quirky".
  
 
 <p align="center">
