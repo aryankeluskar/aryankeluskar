@@ -1,5 +1,5 @@
 - <h1>👋 Hello Developers! </h1> 
-- I’m Aryan Keluskar (@aryankeluskar), a student (📍🇮🇳).
+- I’m Aryan Keluskar (@aryankeluskar), a student (📍🇮🇳🇺🇸).
 - 👀 I’m interested in AI/ML, Data Science, Web Developement (Front-End, MERN stack, Full-Stack), and Algorithms in Java & Python.
 - 🌱 I’m currently learning NodeJS, while creating projects to boost my skills.
 - 📫 Linkedin: <a href="https://www.linkedin.com/in/aryankeluskar/">Aryan Kelukar</a>, Instagram: <a href="https://www.instagram.com/aryankeluskar/">@aryankeluskar</a>; Twitter: <a href="https://twitter.com/aryankeluskar6">@aryankeluskar6</a>; YouTube: <a href="https://www.youtube.com/channel/UCz-EQVc6DcbiIJxaeiVFBvQ">The Sarcastic Techynologion.</a>
