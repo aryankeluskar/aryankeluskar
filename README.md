@@ -1,11 +1,12 @@
 - <h1>👋 Hello Developers! </h1> 
 - I’m Aryan Keluskar (@aryankeluskar), a student (📍🇮🇳🇺🇸).
-- 👀 I’m interested in researching AI/ML, Data Science; practising Web Developement (Front-End, MERN stack, Full-Stack); DSA in Java & Python; and Creating APIs for the Community!.
-- 🌱 I’m currently learning NodeJS, while creating projects to boost my skills.
+- 📈 Practising Software Developement (Back-End, MERN stack, Full-Stack, Flutter); DSA in Java & Python; and Creating APIs for the Community!
+- 👀 I’m actively researching Privacy-Preserving ML, Data Science at Arizona State University;
+- 🌱 I’m currently learning NextJS and creating Back-Ends for fun, while creating projects to boost my skills.
 - 📫 Linkedin: <a href="https://www.linkedin.com/in/aryankeluskar/">Aryan Keluskar</a>, Instagram: <a href="https://www.instagram.com/aryankeluskar/">@aryankeluskar</a>; Twitter: <a href="https://twitter.com/aryankeluskar6">@aryankeluskar6</a>; YouTube: <a href="https://www.youtube.com/channel/UCz-EQVc6DcbiIJxaeiVFBvQ">The Sarcastic Techynologion.</a>
 - 🫀 My Fav Projects are:  <a href="https://aryankeluskar.github.io/The-Noodle-Nirvana">The Noodle Nirvana,</a> MelodySyncer, Your Two-Wheeler Roomie
-- 😁 Apart from coding, I love watching Movies, Pop/Soundtrack Music, playing Table Tennis, cycling, and am also developing my very own web-series!
-- 💻 Programming Languages known: Java, JavaScript, Python, HTML and CSS.
+- 😁 Apart from coding, I love watching Movies, Pop/Soundtrack Music, playing Table Tennis, cycling, creating my very own web-series!
+- 💻 Programming Languages known: Java, TypeScript, Python, C++.
 - 📧 My inbox is always open to connect: <a href="mailto:aryankeluskar6@gmail.com">aryankeluskar6@gmail.com</a>
 - 📝 Check out  <a href="https://aryankeluskar.github.io">My Website here</a>, and <a href="https://drive.google.com/file/d/17IsDOkYm8lB3PavvkeleOxRMZ-cDJVVj/view?usp=sharing" target="__blank__">My Resume here</a>
 - 🌻 My friends describe me as "tiny sweet helpful human, smart and quirky".
