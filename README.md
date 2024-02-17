@@ -8,7 +8,7 @@
 - 😁 Apart from coding, I love watching Movies, Pop/Soundtrack Music, playing Table Tennis, cycling, creating my very own web-series!
 - 💻 Programming Languages known: Java, TypeScript, Python, C++, C, Julia.
 - 📧 My inbox is always open to connect: <a href="mailto:aryankeluskar6@gmail.com">aryankeluskar6@gmail.com</a>
-- 📝 Check out  <a href="https://aryankeluskar.github.io">My Website here</a>, and <a href="https://drive.google.com/file/d/12Phy8uInendldT3F5qM92MKzAhU3lu0s/view?usp=sharing" target="__blank__">My Resume here</a>
+- 📝 Check out  <a href="https://aryankeluskar.github.io">My Website here</a>, and <a href="https://drive.google.com/file/d/1VJew9n4hFF3hkD_A8pi2NiYlz1mgnAyH/view" target="__blank__">My Resume here</a>
 - 🌻 My friends describe me as "tiny sweet helpful human, smart and quirky".
 
 
