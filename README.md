@@ -7,6 +7,7 @@
 - 🫀 My Fav Projects are: <a href="https://github.com/aryankeluskar/irina.minesweeper">AI Minesweeper Solver</a>, <a href="https://melodysyncer.vercel.app/">MelodySyncer</a>, <a href="https://minute-miles.vercel.app/" > MinuteMiles </a>, <a href="https://github.com/EdComposer/" > EdComposer </a>, <a href="https://aryankeluskar.github.io/The-Noodle-Nirvana">The Noodle Nirvana</a> 
 - 😁 Apart from coding, I love watching Movies, Pop/Soundtrack Music, playing Table Tennis, cycling, creating my very own web-series!
 - 💻 Programming Languages known: Java, TypeScript, Python, C++, C, Julia.
+- ⭐ Bagged Honorable Mention in the 'AI in Education' Hackathon, Finalist at Opportunity Hacks; 1st place at HKD Hackathon and WiCS Coding Contest.
 - 📧 My inbox is always open to connect: <a href="mailto:aryankeluskar6@gmail.com">aryankeluskar6@gmail.com</a>
 - 📝 Check out  <a href="https://aryankeluskar.github.io">My Website here</a>, and <a href="https://drive.google.com/file/d/1VJew9n4hFF3hkD_A8pi2NiYlz1mgnAyH/view" target="__blank__">My Resume here</a>
 - 🌻 My friends describe me as "tiny sweet helpful human, smart and quirky".
