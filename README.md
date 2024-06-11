@@ -1,4 +1,5 @@
-- <h1>👋 Hello Developers! </h1> 
+<h1>👋 Hello Developers! </h1> 
+
 - I’m Aryan Keluskar (@aryankeluskar), a student (📍🇮🇳🇺🇸).
 - 📈 Practising Software Developement (Back-End, MERN stack, Full-Stack, Flutter); DSA in Java & Python; and Creating APIs for the Community!
 - 👀 I’m actively researching Privacy-Preserving ML, Data Science at Arizona State University;
@@ -12,10 +13,9 @@
 - 📝 Check out  <a href="https://aryankeluskar.github.io">My Website here</a>, and <a href="https://www.overleaf.com/download/project/653436869108679d0692dbb5/build/18e7ce8acaf-c361c139fdee0b13/output/output.pdf?compileGroup=standard&clsiserverid=clsi-reg-n2d-b-f-f1bl&enable_pdf_caching=true" target="__blank__">My Resume here</a>
 - 🌻 My friends describe me as "tiny sweet helpful human, smart and quirky".
 
-
-<p align="center">
-<a href="https://github.com/aryankeluskar">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=aryankeluskar&theme=chartreuse-dark&show_icons=true"/>
-  <img height="160em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=aryankeluskar&layout=compact&langs_count=8&theme=chartreuse-dark"/>
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=aryankeluskar&theme=github_dark" />
 </a>
-</p>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=aryankeluskar&theme=github_dark&layout=compact&langs_count=8&card_width=320&hide=jupyter%20notebook" />
+</a>
