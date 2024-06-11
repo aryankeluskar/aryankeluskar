@@ -13,9 +13,9 @@
 - 📝 Check out  <a href="https://aryankeluskar.github.io">My Website here</a>, and <a href="https://www.overleaf.com/download/project/653436869108679d0692dbb5/build/18e7ce8acaf-c361c139fdee0b13/output/output.pdf?compileGroup=standard&clsiserverid=clsi-reg-n2d-b-f-f1bl&enable_pdf_caching=true" target="__blank__">My Resume here</a>
 - 🌻 My friends describe me as "tiny sweet helpful human, smart and quirky".
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height=180 align="center"src="https://github-readme-stats.vercel.app/api?username=aryankeluskar&theme=github_dark" />
-</a>
-<a href="https://github.com/anuraghazra/convoychat">
-  <img height=180 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=aryankeluskar&theme=github_dark&layout=compact&langs_count=8&card_width=320&hide=jupyter%20notebook" />
+<a href="https://github.com/aryankeluskar/">
+<img height=180 align="center"src="https://github-readme-stats.vercel.app/api?username=aryankeluskar&theme=github_dark" />
+</a>‎‎ 
+<a href="https://github.com/aryankeluskar/">
+<img height=180 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=aryankeluskar&theme=github_dark&layout=compact&langs_count=8&card_width=320&hide=jupyter%20notebook" />
 </a>
