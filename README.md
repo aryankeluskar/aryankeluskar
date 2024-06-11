@@ -14,8 +14,8 @@
 - 🌻 My friends describe me as "tiny sweet helpful human, smart and quirky".
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=aryankeluskar&theme=github_dark" />
+  <img height=180 align="center"src="https://github-readme-stats.vercel.app/api?username=aryankeluskar&theme=github_dark" />
 </a>
 <a href="https://github.com/anuraghazra/convoychat">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=aryankeluskar&theme=github_dark&layout=compact&langs_count=8&card_width=320&hide=jupyter%20notebook" />
+  <img height=180 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=aryankeluskar&theme=github_dark&layout=compact&langs_count=8&card_width=320&hide=jupyter%20notebook" />
 </a>
