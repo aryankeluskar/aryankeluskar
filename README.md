@@ -17,5 +17,5 @@
 <img height=180 align="center"src="https://github-readme-stats.vercel.app/api?username=aryankeluskar&theme=github_dark" />
 </a>‎‎ 
 <a href="https://github.com/aryankeluskar/">
-<img height=180 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=aryankeluskar&theme=github_dark&layout=compact&langs_count=8&card_width=320&hide=jupyter%20notebook" />
+<img height=180 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=aryankeluskar&theme=github_dark&layout=compact&langs_count=8&card_width=320&hide=jupyter%20notebook,swig" />
 </a>
