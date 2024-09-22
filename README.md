@@ -23,5 +23,7 @@
 
 <details>
   <summary>Streak Stats</summary>
-  [![GitHub Streak](https://streak-stats.demolab.com?user=aryankeluskar&theme=whatsapp-dark2&border_radius=10&mode=weekly)](https://git.io/streak-stats)
+  <br>
+  
+  [![GitHub Streak](https://streak-stats.demolab.com?user=aryankeluskar&theme=github-dark-blue&border_radius=10&mode=weekly)](https://git.io/streak-stats)
 </details>
