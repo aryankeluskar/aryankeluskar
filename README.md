@@ -5,11 +5,11 @@
 - 👀 I’m actively researching Large Language Models for [DMML at Arizona State University](https://dmml.asu.edu/)
 - 🫀 My Fav Projects are: [EasyWire](https://easywire.aryankeluskar.com/), [FreshUntil](https://git.new/fresh), <a href="https://github.com/aryankeluskar/irina.minesweeper">AI Minesweeper Solver</a>, <a href="https://melodysyncer.aryankeluskar.com/">MelodySyncer</a>, <a href="http://dub.sh/edcomposer/" > EdComposer </a>
 - ⭐ Won **HackMIT 2024**, San Francisco Hackathon 2024, Bagged Honorable Mention at 'AI in Education' Hackathon, Finalist at Opportunity Hacks; 1st place at HKD Hackathon and WiCS Coding Contest.
-- 📫 Linkedin: <a href="https://www.linkedin.com/in/aryankeluskar/">Aryan Keluskar</a>, Instagram: <a href="https://www.instagram.com/aryankeluskar/">@aryankeluskar</a>; Twitter: <a href="https://twitter.com/aryankeluskar6">@aryankeluskar6</a>; YouTube: <a href="https://www.youtube.com/channel/UCz-EQVc6DcbiIJxaeiVFBvQ">The Sarcastic Techynologion.</a>
-- 😁 Apart from coding, I love watching Movies, Pop/Soundtrack Music, playing Table Tennis, cycling, creating my very own web-series!
-- 💻 Programming Languages known: Java, TypeScript, Python, C++, C, Julia.
+- 📫 Linkedin: <a href="https://www.linkedin.com/in/aryankeluskar/">Aryan Keluskar</a>, Twitter: <a href="https://twitter.com/aryankeluskar6">@aryankeluskar6</a>;
+  <!--- - 😁 Apart from coding, I love watching Movies, Pop/Soundtrack Music, playing Table Tennis, cycling, creating my very own web-series! --->
+- 💻 Programming Languages known: Python, C++, TypeScript, Java, C, Julia, Golang.
 - 📧 My inbox is always open to connect: <a href="mailto:aryankeluskar6@gmail.com">aryankeluskar6@gmail.com</a>
-- 📝 Check out  <a href="https://aryankeluskar.github.io">My Website here</a>, and <a href="https://utfs.io/f/3b220926-c6ce-4b38-be7a-dec705a37e10-boxj2v.pdf" target="__blank__">My Resume here</a>
+- 📝 Check out <a href="https://utfs.io/f/VpCDIDL5swAad3JsXrnVNT18I4tdLhWJDa27SseRUgjH9CxK" target="__blank__">My Resume here</a> (Check out its source code [here](https://github.com/aryankeluskar/Latex-Resume))
 - 🌻 My friends describe me as "tiny sweet helpful human, smart and quirky".
 
 <a href="https://github.com/aryankeluskar/">
@@ -18,3 +18,10 @@
 <a href="https://github.com/aryankeluskar/">
 <img height=180 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=aryankeluskar&theme=github_dark&layout=compact&langs_count=8&card_width=320&hide=jupyter%20notebook,swig,javascript" />
 </a>
+
+#
+
+<details>
+  <summary>Streak Stats</summary>
+  [![GitHub Streak](https://streak-stats.demolab.com?user=aryankeluskar&theme=whatsapp-dark2&border_radius=10&mode=weekly)](https://git.io/streak-stats)
+</details>
