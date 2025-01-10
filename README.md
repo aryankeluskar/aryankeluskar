@@ -10,7 +10,7 @@
 - 🫀 My Fav Projects are: [EasyWire](https://easywire.aryankeluskar.com/), [FreshUntil](https://git.new/fresh), <a href="https://github.com/aryankeluskar/irina.minesweeper">AI Minesweeper Solver</a>, <a href="https://melodysyncer.aryankeluskar.com/">MelodySyncer</a>, <a href="http://dub.sh/edcomposer/" > EdComposer </a>
 - 💻 Programming Languages known: Python, C++, TypeScript, Java, C, Julia, Golang.
 - 📧 My inbox is always open to connect: <a href="mailto:aryankeluskar6@gmail.com">aryankeluskar6@gmail.com</a>
-- 📝 Check out <a href="https://aryankeluskar.com/resume" target="__blank__">My Resume here</a> (Check out its source code [here](https://github.com/aryankeluskar/Latex-Resume))
+- 📝 Check out <a href="https://dub.sh/aryans-resume" target="__blank__">My Resume here</a> (Check out its source code [here](https://github.com/aryankeluskar/Latex-Resume))
 - 🌻 My friends describe me as "tiny sweet helpful human, smart and quirky".
 
 <a href="https://github.com/aryankeluskar/">
