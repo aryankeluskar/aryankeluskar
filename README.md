@@ -4,7 +4,7 @@
 - 📈 Practising Software Developement (Backend, Full-Stack); DSA in Java & Python; and Love Creating APIs for the Community!
 - ⭐ Won **HackMIT 2024**, San Francisco Hackathon 2024, Bagged Honorable Mention at 'AI in Education' Hackathon, Finalist at Opportunity Hacks; 1st place at HKD Hackathon and WiCS Coding Contest.
 - 🧬 Published and Presented a [research paper](https://arxiv.org/abs/2411.12395) on the comprehension of Ambiguity in Large Language Models, which has earned [2+ citations](https://www.semanticscholar.org/paper/Do-LLMs-Understand-Ambiguity-in-Text-A-Case-Study-Keluskar-Bhattacharjee/aeb02184c3512aa972e7dd6f76599a833da03dfb#citing-papers) in less than 2 months!
-- 📫 Linkedin: <a href="https://www.linkedin.com/in/aryankeluskar/">Aryan Keluskar</a>, Twitter: <a href="https://twitter.com/aryankeluskar6">@aryankeluskar6</a>;
+- 📫 Linkedin: <a href="https://www.linkedin.com/in/aryankeluskar/">Aryan Keluskar</a>, Twitter: <a href="https://twitter.com/aryankeluscar">@aryankeluscar</a>;
   <!--- - 😁 Apart from coding, I love watching Movies, Pop/Soundtrack Music, playing Table Tennis, cycling, creating my very own web-series! --->
 - 👀 I’m actively researching Large Language Models for [DMML at Arizona State University](https://dmml.asu.edu/)
 - 🫀 My Fav Projects are: [EasyWire](https://easywire.aryankeluskar.com/), [FreshUntil](https://git.new/fresh), <a href="https://github.com/aryankeluskar/irina.minesweeper">AI Minesweeper Solver</a>, <a href="https://melodysyncer.aryankeluskar.com/">MelodySyncer</a>, <a href="http://dub.sh/edcomposer/" > EdComposer </a>
