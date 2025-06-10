@@ -2,7 +2,7 @@
 
 - I’m Aryan Keluskar (@aryankeluskar) => [website](https://www.aryankeluskar.com/) | [twitter](https://x.com/aryankeluscar)
 - ⭐ Won **HackMIT 2024**, San Francisco Hackathon 2024, Bagged Honorable Mention at 'AI in Education' Hackathon, Finalist at Opportunity Hacks; 1st place at HKD Hackathon and WiCS Coding Contest.
-- 🧬 Published and Presented a [research paper](https://arxiv.org/abs/2411.12395) on the comprehension of Ambiguity in Large Language Models, which has earned [5+ citations](https://scholar.google.com/citations?user=wVDeZtcAAAAJ&hl=en) in less than 4 months!
+- 🧬 Published and Presented a [research paper](https://arxiv.org/abs/2411.12395) on the comprehension of Ambiguity in Large Language Models, which has earned [8+ citations](https://scholar.google.com/citations?user=wVDeZtcAAAAJ&hl=en) in less than 6 months!
 - 🤖 Built SOTA voice-agents and sub-200ms RAG during my internship at HealthGC. 
   <!--- - 📫 Linkedin: <a href="https://www.linkedin.com/in/aryankeluskar/">Aryan Keluskar</a>, Twitter: <a href="https://twitter.com/aryankeluscar">@aryankeluscar</a>; -->
   <!--- - 😁 Apart from coding, I love watching Movies, Pop/Soundtrack Music, playing Table Tennis, cycling, creating my very own web-series! --->
