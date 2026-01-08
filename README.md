@@ -15,7 +15,7 @@
 <img height=180 align="center"src="https://github-stats-phi-nine.vercel.app/api?username=aryankeluskar&theme=github_dark" />
 </a>‎‎ 
 <a href="https://github.com/aryankeluskar/">
-<img height=180 align="center" src="https://github-stats-phi-nine.vercel.app/api/top-langs?username=aryankeluskar&theme=github_dark&layout=compact&langs_count=8&card_width=320&hide=jupyter%20notebook,swig,fluent&exclude_repo=alice" />
+<img height=180 align="center" src="https://github-stats-phi-nine.vercel.app/api/top-langs?username=aryankeluskar&theme=github_dark&layout=compact&langs_count=8&card_width=320&hide=jupyter%20notebook,swig,php,fluent&exclude_repo=alice" />
 </a>
 
 #
@@ -24,5 +24,5 @@
   <summary>Streak Stats</summary>
   <br>
   
-  [![GitHub Streak](https://streak-stats.demolab.com?user=aryankeluskar&theme=github-dark-blue&border_radius=10&mode=weekly)](https://github.com/aryankeluskar)
+  [![GitHub Streak](https://streak-stats-dusky.vercel.app?user=aryankeluskar&theme=github-dark-blue&border_radius=10&mode=weekly)](https://github.com/aryankeluskar)
 </details>
