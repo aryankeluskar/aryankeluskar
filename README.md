@@ -1,6 +1,6 @@
 <h1>👋 Hello Developers! </h1> 
 
-- I’m Aryan Keluskar (@aryankeluskar) => [website](https://www.aryankeluskar.com/) | [twitter](https://x.com/soydotrun) 
+- I’m Aryan Keluskar (@aryankeluskar) => [website](https://www.aryankeluskar.com/) | [resume](https://dub.sh/aryans-resume)
 - 🧬 Software Dev + Machine Learning Eng at Biodesign Institute, working on protein sequencing and structure prediction models. First-author of [preprint](https://doi.org/10.64898/2026.02.05.704073) available on bioRxiv. Co-author of a Nature Methods [research paper](https://www.nature.com/articles/s41592-025-02981-z).
 - 🤖 Work in ASU's AI Safety Lab, published a first-author [research paper](https://arxiv.org/abs/2411.12395) at IEEE Conf. on ambiguity in LLMs, which has earned [20+ citations](https://scholar.google.com/citations?user=wVDeZtcAAAAJ&hl=en) within one year!
 - 🏥 Built voice-agents for healthcare, sub-200ms RAG and product/llm analytics dashboard during my internship at HealthGC. 
