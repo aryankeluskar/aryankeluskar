@@ -5,6 +5,7 @@
 - 🤖 Work in ASU's AI Safety Lab, published a first-author [research paper](https://arxiv.org/abs/2411.12395) at IEEE Conf. on ambiguity in LLMs, which has earned [20+ citations](https://scholar.google.com/citations?user=wVDeZtcAAAAJ&hl=en) within one year!
 - 🏥 Built voice-agents for healthcare, sub-200ms RAG and product/llm analytics dashboard during my internship at HealthGC. 
 - 🫀 My Fav Projects are: [Alice](https://dub.sh/wonderland), [Canvas MCP](https://git.new/canvas-mcp), [AI Minesweeper Solver](https://git.new/irina), [XML Builder](https://dub.sh/xml-builder), [CuraRx](https://devpost.com/software/cura-rx). See the full list on my [website](https://www.aryankeluskar.com/#projects).
+- 🌲 Won 2 tracks at TreeHacks 2026 (Stanford's Annual Hackathon) and 1 sponsor track at HackMIT 2024
 - 💻 Proficient in Python, TypeScript, Java, C++, Golang.
 - 📧 My inbox is always open to connect: <a href="mailto:contact@aryankeluskar.com">contact@aryankeluskar.com</a> 
 
